@@ -13,7 +13,7 @@
     <?php
     $posts = 'hello';
     if (!is_null($posts)) {
-        echo $posts;
+        echo $posts . 'all good';
     }
 
     ?>
